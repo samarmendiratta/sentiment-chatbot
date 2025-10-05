@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sentiment-chatbot/static/css/main.f855e6bc.css",
+    "main.js": "/sentiment-chatbot/static/js/main.84f2e738.js",
+    "static/js/453.d7446e4a.chunk.js": "/sentiment-chatbot/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/sentiment-chatbot/index.html",
+    "main.f855e6bc.css.map": "/sentiment-chatbot/static/css/main.f855e6bc.css.map",
+    "main.84f2e738.js.map": "/sentiment-chatbot/static/js/main.84f2e738.js.map",
+    "453.d7446e4a.chunk.js.map": "/sentiment-chatbot/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.84f2e738.js"
+  ]
+}
